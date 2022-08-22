@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ControlRig",
-			"Enabled": true
-		},
-		{
 			"Name": "ApexDestruction",
 			"Enabled": true
 		}
